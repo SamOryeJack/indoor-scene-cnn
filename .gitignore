@@ -1,0 +1,17 @@
+# Dataset — re-downloaded at runtime via the Kaggle cell, never committed
+data/
+indoorCVPR_09/
+indoorCVPR_09annotations/
+*.txt.zip
+indoor-scenes-cvpr-2019.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
